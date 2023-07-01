@@ -1,0 +1,104 @@
+img{
+    border-radius: 20px;
+    width: 250px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    color: #000000;
+    text-decoration: none;
+    font-family:Helvetica;
+    text-align: center;
+}
+
+h3{
+    font-family: Arial;
+    font-size: 20px;
+    color: #b11623;
+}
+
+a{
+    text-decoration: none;
+    font-family: Helvetica;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    margin-right: 15px;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.artigos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 10px;    
+}
+
+.secao2{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    margin: 10px; 
+    margin-top: 7%;
+}
+
+.secao2 table{
+    display: inline-block;
+    margin-left: 25%;
+}
+
+iframe{
+    width: 500px;
+    height: 300px;    
+    display: inline-block;
+    margin-left: 30%;
+}
+
+table {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+td {
+    padding: 5px;
+}
+
+section{
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    text-align: justify;
+    margin: 35px;
+    margin-left: 60px;
+    margin-right: 60px ;
+}
+
+footer{
+    margin: 50px;
+}
+
+.rodape{
+    margin: 10px;
+}
+
+.secao2 ol{
+    margin-left: 30%;
+}
+
+
